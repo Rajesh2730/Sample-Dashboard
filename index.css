@@ -1,0 +1,403 @@
+.main-body{
+    background-color: rgb(1,17,27);
+}
+.logo{
+    height: 2rem;
+    width: 2rem;
+    border-radius: 2rem;
+    margin-left: .8rem;
+}
+.header{
+    display: flex;
+    position: relative;
+    top: .5rem;
+    border-bottom: 1px solid white;
+    padding-bottom: .5rem;
+}
+.t1{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: .5rem;
+    left: .8rem;
+}
+.t2{
+    color: aqua;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: .5rem;
+    left: 1rem;
+}
+.nav{
+    display: flex;
+    margin-left: 22rem;
+    position: relative;
+    top: .5rem;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nav1{
+    color: aqua;
+    border-bottom: 2px solid aqua;
+}
+.nav2{
+    position: relative;
+    left: 2rem;
+}
+.nav3{
+    position: relative;
+    left: 4rem;
+}
+.value{
+    color: white;
+    margin-left: 22rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.vl2{
+    color: aquamarine;
+    margin-left: .5rem;
+    font-size: small;
+}
+.accounts{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 4rem;
+    background-color: lightslategray;
+    border-radius: 3px;
+    width: 8rem;
+    text-align: center;
+    display: flex;
+    position: relative;
+    top: -.3rem;
+}
+.acc{
+    position: relative;
+    top: .5rem;
+    left: 1rem;
+}
+.acc-logo{
+    height: 1.5rem;
+    width: 2rem;
+    border-radius: 3rem;
+    padding-top: .5rem;
+    background-color: gold;
+    position: relative;
+    left: 1.4rem;
+}
+.major-div{
+    display: flex;
+    position: relative;
+    top: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.side-nav{
+    height: 40rem;
+    width: 22rem;
+    background-color: rgb(18, 33, 42);
+    border-radius: 7px;
+}
+.cont1{
+    display: flex;
+    padding-top: 1rem;
+    font-size: small;
+    border-bottom: 2px solid gray;
+    padding-bottom: 1rem;
+}
+.cont1-i{
+    padding-left: 1rem;
+    padding-right: 2.8rem;
+    border-right: 1px solid white;
+}
+.cont1-ii{
+    margin-left: .5rem;
+}
+.sbar1{
+    height: 1.8rem;
+    width: 20rem;
+    margin-top: .8rem;
+    border-radius: 5px;
+    background-color: rgb(1,17,27);
+    border: 0;
+    text-align: center;
+}
+.side-major{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    color: white;
+}
+.sbar{
+    border-bottom: 2px solid gray;
+    padding-bottom: 1rem;
+}
+.cont2{
+    display: flex;
+}
+.cont-name-grn{
+    color: lightgreen;
+}
+.cont-name-red{
+    color: red;
+}
+.val-pre{
+    margin-left: 2rem;
+}
+.up-grn{
+    margin-left: 1rem;
+    color: lightgreen;
+}
+.up-red{
+    margin-left: 1rem;
+    color: red;
+}
+.op-grn{
+    margin-left: 1rem;
+    color: lightgreen;
+}
+.op-red{
+    margin-left: 1rem;
+    color: red;
+}
+.cont2{
+    margin-top: .8rem;
+    padding-bottom: .7rem;
+    border-bottom: 2px solid gray;
+}
+.cont3{
+    background-color: rgb(1,17,27);
+    display: flex;
+    padding-top: .8rem;
+    padding-bottom: .8rem;
+    padding-left: .6rem;
+}
+.buy-btn{
+    margin-left: 3rem;
+    width: 3.8rem;
+    height: 1.7rem;
+    border-radius: 6px;
+    border: 0;
+    color: white;
+    background-color: green;
+}
+.sell-btn{
+    margin-left: 1rem;
+    width: 3.8rem;
+    height: 1.7rem;
+    border-radius: 6px;
+    border: 0;
+    color: white;
+    background-color: red;
+}
+.stk-up-btn{
+    background-color: aqua;
+    border: 0;
+    margin-left: 1rem;
+    border-radius: 3px;
+    padding-bottom: .3rem;
+    padding-right: .6rem;
+}
+.dlt-btn{
+    background-color: rgb(1,17,27);
+    border: 0;
+    color: white;
+    margin-left: 1rem;
+    border-radius: 3px;
+    padding-bottom: .3rem;
+    padding-top: .3rem;
+}
+.content{
+    color: rgb(18, 33, 42);
+    height: 40rem;
+    width: 42rem;
+    margin-left: 6rem;
+    color: white;
+}
+.wallet{
+    display: flex;
+    background-color: rgb(1,17,27);
+    margin-top: 1rem;
+    width: 66rem;
+    height: 6rem;
+}
+.wallet-acc-1{
+    background-color: rgb(18, 33, 42);
+    height: 5rem;
+    width: 28rem;
+    border: 0;
+    border-radius: 9px;
+    display: flex;
+    padding-top: 1.5rem;
+    padding-left: 1.8rem;
+}
+.wallet-acc-2{
+    background-color: rgb(18, 33, 42);
+    height: 5rem;
+    width: 28rem;
+    border: 0;
+    border-radius: 9px;
+    display: flex;
+    padding-top: 1.5rem;
+    padding-left: 1.8rem;
+    margin-left: 1rem;
+}
+.wallet-icon{
+    height: 2.1rem;
+    width: 3rem;
+    border: 3px solid pink;
+    border-radius: 2rem;
+    background-color: rgba(245, 164, 177, 0.4);
+    text-align: center;
+    padding-top: .9rem;
+    color: black;
+    font-size: larger;
+}
+.wallet-icon-1{
+    height: 2.1rem;
+    width: 3rem;
+    border: 3px solid gold;
+    border-radius: 2rem;
+    background-color: rgba(209, 237, 140, 0.4);
+    text-align: center;
+    padding-top: .9rem;
+    color: black;
+    font-size: larger;
+}
+.details{
+    height: 7rem;
+    width: 57.5rem;
+    border-radius: 7px;
+    background-color: rgb(18, 33, 42);
+    margin-top: 2rem;
+    display: flex;
+    padding-top: 2rem;
+    padding-left: 3rem;
+    padding-bottom: 1rem;
+}
+.accnum{
+    border-right: 2px solid gray;
+    padding-right: 3rem;
+}
+.upgrade{
+    height: 2rem;
+    width: 6rem;
+    border: 1px solid white;
+    border-radius: 6px;
+    margin-top: 1.7rem;
+    background-color: rgba(125, 136, 142, 0.4);
+    color: aqua;
+}
+.acc-status{
+    margin-left: 1rem;
+}
+.status1{
+    display: flex;
+    border-bottom: 2px solid gray;
+    padding-bottom: .6rem;
+}
+.status2{
+    display: flex;
+    padding-top: .9rem;
+    padding-bottom: .6rem;
+}
+.s-cont-2{
+    margin-left: 8rem;
+}
+.t-cont{
+    margin-top: 1rem;
+}
+.t-cont-1{
+    display: flex;
+}
+.t-cont-2{
+    display: flex;
+    margin-top: 1.5rem;
+    width: 50rem;
+}
+.t-cont-1-i{
+    background-color: rgb(18, 33, 42);
+    height: 5rem;
+    width: 22rem;
+    border: 0;
+    border-radius: 9px;
+    display: flex;
+    padding-top: .7rem;
+    padding-left: 1.8rem;
+    padding-right: 1rem;
+}
+.t-cont-1-ii{
+    background-color: rgb(18, 33, 42);
+    height: 5rem;
+    width: 22rem;
+    border: 0;
+    border-radius: 9px;
+    display: flex;
+    padding-top: .7rem;
+    padding-left: 1.8rem;
+    margin-left: 2rem;
+    padding-right: 1rem;
+}
+.t-logo{
+    height: 1.5rem;
+    width: 2rem;
+    border: 0px solid gold;
+    background-color: rgba(202, 190, 122, 0.4);
+    color: gold;
+    text-align: center;
+    font-size: small;
+    padding-top: .5rem;
+    border-radius: 2rem;
+}
+.logo-t{
+    width: 10rem;
+    display: flex;
+}
+.stat-grn{
+    height: 4rem;
+    width: 4rem;
+    border-radius: 50%;
+    margin-left: 5rem; 
+    background-image: conic-gradient(green,calc(200deg),gray 0deg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.stat-red{
+    height: 4rem;
+    width: 4rem;
+    border-radius: 50%;
+    margin-left: 5rem; 
+    background-image: conic-gradient(rgb(189, 25, 25),calc(200deg),gray 0deg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.stat1{
+    height: 3rem;
+    width: 3rem;
+    background-color: rgb(18, 33, 42);
+    border-radius: 50%;
+}
+.t-cont-2-i{
+    background-color: rgb(18, 33, 42);
+    height: 5rem;
+    width: 20rem;
+    border: 0;
+    border-radius: 9px;
+    display: flex;
+    padding-top: .7rem;
+    padding-left: 1.8rem;
+}
+.t-cont-2-ii{
+    background-color: rgb(18, 33, 42);
+    height: 5rem;
+    width: 19.5rem;
+    border: 0;
+    border-radius: 9px;
+    display: flex;
+    padding-top: .7rem;
+    padding-left: 1.8rem;
+    margin-left: 2rem;
+}
